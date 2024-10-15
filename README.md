@@ -5,11 +5,7 @@
 **Link to the project**:[StockPricePredictor](https://github.com/PRANAVKUMAR183/StockPricePredictor)
 
 
-**Key techniques used**:
-
-**Random_Forest_Regression**
-  
-**Stock Analysis**
+**Key techniques used**:Random_Forest_Regression,Stock Analysis
 
 **Summary**:
 
